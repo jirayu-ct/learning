@@ -1,3 +1,5 @@
 ----intall react----
 npm create vite@latest
 npm i tailwindcss @tailwindcss/vite
+npm i sweetalert2
+npm i axios
