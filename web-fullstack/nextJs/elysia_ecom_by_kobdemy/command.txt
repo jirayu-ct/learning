@@ -3,3 +3,22 @@ npm create vite@latest
 npm i tailwindcss @tailwindcss/vite
 npm i sweetalert2
 npm i axios
+
+
+
+
+bun add @elysiajs/jwt
+
+
+npm install typescript tsx @types/node --save-dev
+
+npm i prisma --save-dev
+npx prisma init --datasource-provider mongodb --output ../generated/prisma
+
+bunx prisma genarate
+
+---workshop---
+--client--
+    npx create-next-app@latest
+    npm i axios
+    npm i sweetalert2
